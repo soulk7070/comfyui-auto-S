@@ -1,0 +1,11 @@
+Prompt_P     ,Prompt_N,Workflow,count
+soft pastel bokeh lights,"blurry, noisy",Qwen_2:1_Vector,1
+"Subject & Style: A high-angle flatlay photography of a serene and premium minimalist workspace setup. The image evokes a mood of clarity, hope, and organized calm.
+
+Composition & Surface: Off-center composition with objects curated organically in the bottom-left area, leaving expansive negative space on the top and right for a breathable feel. The surface is a textured pale concrete with a matte finish.
+
+Lighting & Color: Soft diffused morning light entering from the left, creating gentle and smooth shadows. The color palette is cohesive, featuring off-white, beige, light gray, silver, and accents of warm brass.
+
+Object Details & Text: An open lay-flat notebook with an oatmeal-colored linen cover features thick ivory paper where ""2027 goals"" is written in neat dark brown cursive handwriting. A minimalist brass pen rests beside it. Next to the notebook is a textured cardstock sheet serving as a calendar with clean sans-serif typography reading ""JANUARY 2027"". A slim silver laptop sits closed, signifying a pause for planning. A handleless handmade ceramic tumbler with speckled cream glaze emits thin wisps of steam. A pair of thin gold-frame round glasses rests casually, slightly overlapping the calendar.
+
+Quality Modifiers: Photorealistic, 8k, sharp focus, highly detailed textures, magazine quality.","dark, gloomy, high contrast, harsh shadows, artificial lighting, neon colors, vibrant colors, clutter, messy, chaotic, crowded, centered composition, plain white plastic table, wood grain too dark, open laptop, visible screen, keyboard, mouse, plastic cup, mug with handle, black ink, ballpoint pen, digital clock, watermark, text overlay, low resolution, blurry, distorted text, wrong spelling, ""2026"", ""2025"", ""2028"".",Qwen_16_9.json,2
